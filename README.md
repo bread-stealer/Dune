@@ -6,9 +6,9 @@
 | - | - |
 | Guilherme Negrinho | 22207383 |
 
-**Repositório Git:** [Source](https://github.com/bread-stealer/Dune)
-
-**Trello:** [Source](https://trello.com/invite/b/mOPGqMiA/ATTI64947a57448a61db290d04388aec33012082BD84/1-planeamento-ヽ｀дﾉ)
+- **Repositório Git:** [Source](https://github.com/bread-stealer/Dune)
+- **Trello:** [Source](https://trello.com/invite/b/mOPGqMiA/ATTI64947a57448a61db290d04388aec33012082BD84/1-planeamento-ヽ｀дﾉ)
+- **Build do Prótotipo:** [Source](https://drive.google.com/drive/folders/1v82C-bG9Wavcaq1YDkwOWJFi5Sew9A5C?usp=drive_link)
 
 ---
 # _Sobre o Filme_
