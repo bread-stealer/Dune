@@ -51,12 +51,12 @@ O jogo é um action-platformer baseado no filme "_Dune_" (2021). Deste modo, o t
 
 Além disso, o planeta contém _Sand Worms_ que atacam aqueles detectados em seu território, consequentemente, criando um sentimento de ansiedade no ambiente ao redor.
 
-### Público-Alvo:
+### Público-Alvo
 - Fãs de _Dune_;
 - Fãs de Jogos Desafiantes;
 - Público acima de 14 anos.
 
-### Mecânicas:
+### Mecânicas
 - ### Barra de HP e Barra de Água:
      - Esta barra é influênciada pela Barra de Contabilização da Água. Por consequência, durante o jogo, o jogador tem de coletar pequenas porções de água para constamente manter-se saudável, permanecendo assim o seu nível de água cheio, que vai diminuindo ao decorrer da experiência interativa;
      - Caso o jogador não consiga manter este passo de consume e a sua barra de água comece a descer, chegando a zero, o HP começa a sofrer dano. Cria-se assim uma pequena chance, tempo limitado, para o jogador sobreviver.
