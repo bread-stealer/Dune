@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.dbrizov.naughtyattributes": {
+      "version": "https://github.com/dbrizov/NaughtyAttributes.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8a8fa5a9659a6d63f196391c71e06c4286c8acd7"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -241,6 +248,13 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.videojogoslusofona.okapikit": {
+      "version": "https://github.com/VideojogosLusofona/OkapiKit.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "66ac4622c6eb0e2eb43e7258472bea073a2c3021"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
