@@ -57,24 +57,24 @@ Além disso, o planeta contém _Sand Worms_ que atacam aqueles detectados em seu
 - Público acima de 14 anos.
 
 ### Mecânicas
-- ### Barra de HP e Barra de Água:
+- #### **Barra de HP e Barra de Água:**
      - Esta barra é influênciada pela Barra de Contabilização da Água. Por consequência, durante o jogo, o jogador tem de coletar pequenas porções de água para constamente manter-se saudável, permanecendo assim o seu nível de água cheio, que vai diminuindo ao decorrer da experiência interativa;
      - Caso o jogador não consiga manter este passo de consume e a sua barra de água comece a descer, chegando a zero, o HP começa a sofrer dano. Cria-se assim uma pequena chance, tempo limitado, para o jogador sobreviver.
      - Progressivamente a água ficará cada vez mais rara, essencialmente inserindo um timer para obter este recurso líquido;
 
-- ### Inimigos:
+- #### **Inimigos:**
      - Os inimigos base serão os Sardaukar. Estes são soldados que têm a intenção de destruir o nosso nómada, que navega pelo vasto mundo a tentar sobreviver à desidratação;
      - Tais obstáculos são encontrados nos planautos usados como plataformas, onde o jogador poderá empurrá-los, com um pontapé, para a areia movediça. Apenas podem ser empurrados considerando que os mesmos obtém um escudo magnético, não sofrendo dano físico direto (socos, facadas etc.);
      - Por sua vez, uma segunda alternativa para atacar, seria invocar a _Sandworm_, esta criatura habita na areia movediça, onde iria destruir tudo o que consta à sua frente.
      - Mencionando _Sandworm_, esta criatura representa um inimigo passivo do jogo, ou seja, não é possível derrotá-la, seja a atirar pedras, esfaqueá-la etc. porém, apenas é usada para progresso no jogo. Neste caso, para auxiliar o nómada a derrubar o seus inimigos, ou por sua vez, abrir passagem em certas zonas, pois estão bloqueadas por rochas;
      - Se o jogador for atingido pela _Sandworm_, é _Game Over_ imediato.
    
-- ### Power Ups:
+- #### **Power Ups:**
      - Tendo em mente que para além do jogador ter que conviver nesta constante batalha da desitratação, em constraste, o jogador também poderá apanhar _Spices_;
      - _Spices_ são o principal recurso explorado em Arrakis, onde auxíliará o aventureiro a obter mais vida, HP, em caso de sofrer dano;
      - Em adição, estas especiarias concedem a habilidade de prever os movementos do seus inimigos.
 
-- ### Áreas:
+- ### **Áreas:**
      - O jogo no geral, se possível, será divido em 3 áreas.
      - A primeira, sendo os níveis _default_, onde o jogador derrota os Sardaukar, para ter acesso aos mandimentos bebíveis;
      - A segunda, sendo os níveis intermédios, o jogador terá o caminho dificultado, onde haverá abertura para um morte subita da _SandWorm_, pois as plataformas serão limitadas, havendo mais espaço para o erro de se cair na areia movediça.
